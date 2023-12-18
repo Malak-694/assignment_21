@@ -1,0 +1,2 @@
+This is a sample file for comparsion.It contains some text that we will compare .You can choose to compare it character by character.
+Or  you can choose word by word.
